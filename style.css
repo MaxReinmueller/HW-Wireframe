@@ -23,15 +23,24 @@ section {
 }
 
 article {
-   
+    background-color: #777;
+    color: #ebebeb;
+    margin: 5px;
+    padding: 20px;
 }
 aside {
     float: left;
-    width: 345px;
+    width: 425px;
     text-align: center;
     padding: 10px;
     margin: 10px;
-    
+}
+
+h1, p {
+    background-color: #ebebeb;
+    color: #777;
+    padding: 15px;
+    margin: 10px;
 }
 
 Body {
