@@ -1,2 +1,5 @@
 # HW-Wireframe
-First homework assignment
+Wireframe to show the basic layout of a site. Created with html and css.
+
+## Link to Site
+https://maxreinmueller.github.io/HW-Wireframe/
